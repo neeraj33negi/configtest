@@ -1,0 +1,9 @@
+loans:
+  message: "Loans Service Local"
+  contactDetails:
+    person1: "123123"
+    person2: "234234"
+  onCallSupport:
+    - 1234561
+    - 4353453
+
